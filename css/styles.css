@@ -1,0 +1,148 @@
+﻿/* CSS for the body */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+/* CSS for headings */
+h1 {
+    color: #ff0000;
+    text-align: center;
+}
+
+/* CSS for paragraphs */
+p {
+    font-size: 20px;
+    line-height: 1.6;
+    padding: 10px;
+    text-align: center  ;
+    color: black
+}
+
+/* CSS for links */
+a {
+    color: #4CAF50;
+    text-decoration: none;
+}
+
+body {
+    font-family: Arial, sans-serif; /* Set a readable font */
+    margin: 0; /* Remove default margin */
+    padding: 20px; /* Add some padding to the body */
+    background-color: ghostwhite; /* Optional: background color for contrast */
+    position: relative;
+}
+
+.text-container {
+    max-width: 600px; /* Maximum width for text */
+    padding: 10px; /* Optional: add padding for better spacing */
+    background-color: #ffffff; /* Optional: background color for text container */
+    border-radius: 20px; /* Optional: rounded corners */
+    box-shadow: -8px 8px 5px rgba(0, 0, 0, 0.1); /* Optional: slight shadow */
+    position: absolute;
+}
+
+.image-container img {
+    width: 600px; /* Adjust the width as needed */
+    margin: 10px; /* Space between images */
+    border: 2px solid #ccc; /* Optional border */
+}
+
+
+/* 1st Text box in Home PAge */
+.container1 {
+    top:100px;
+    left:120px;
+}
+/* @nd text box in Home Page*/
+.container2 {
+    top:250px;
+    right: 120px;
+}
+
+
+
+/* 3rd text bock in Home Page*/
+.container3 {
+    top:400px;
+    left: 50px;
+}
+
+
+/* Text box in How to make money page */
+.container4 {
+    top:100px;
+    right:100px;
+}
+
+
+/* How to make money tab in home page*/
+.container5 {
+   max-width: 390px;
+    font-size:10px;
+    top:820px;
+    left:50px;
+    padding:15px;
+    border-radius:50px;
+    background-color: antiquewhite;
+}
+
+
+/* HOME PAGE tab*/
+.container6 {       
+    max-width: 390px;
+    font-size: 10px;
+    top: 810px;
+    left:900px;
+    padding: 15px;
+    border-radius: 50px;
+    
+}
+
+
+/*Steps to upload a video tab*/
+.container7 {
+    max-width: 390px;
+    font-size: 10px;
+    top: 840px;
+    right: 50px;
+    padding: 15px;
+    border-radius: 50px;
+    background-color: antiquewhite;
+}
+
+
+/* Steps to uplaoding Youtube Video*/
+.container8 {
+    top:100px;
+    right:10px;
+}
+
+
+/* Link to Youtube Studio*/
+.container9 {
+    top: 450px;
+    right:100px;
+}
+
+
+/* Image in "How to make money off Youtube" page*/
+.container_10 {
+    width: 800px; 
+}
+
+
+/* Image in "How to make money off Youtube" page*/
+.container_10 img {
+        width: 100%;
+    }
+
+
+/* Pdf download*/
+.container_11 {
+    top:600px;
+    right:10px;
+}
